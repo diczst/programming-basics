@@ -2,7 +2,7 @@
   "name": "javascript",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "01-hello-world.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
